@@ -19,7 +19,7 @@ export default function SamikshaWebsite() {
           </h1>
 
           <p className="mt-6 text-white/70 text-lg">
-            some people stay longer than expected
+            some people quietly become important
           </p>
 
           <button className="mt-10 px-8 py-4 rounded-full bg-white text-black hover:scale-105 transition-all duration-300 shadow-xl">
@@ -44,11 +44,11 @@ export default function SamikshaWebsite() {
             </p>
 
             <div className="mt-10 space-y-4 text-white/60">
-              <p>• sugar monster allegations</p>
-              <p>• panda jokes at 2am</p>
+              <p>• late night conversations</p>
+              <p>• gym updates and sleepy talks</p>
               <p>• random shoulder pain updates</p>
-              <p>• gym freak behavior</p>
-              <p>• disappearing and returning</p>
+              <p>• disappearing and finding our way back again</p>
+              <p>• somehow still being here</p>
             </div>
           </div>
 
@@ -70,36 +70,64 @@ export default function SamikshaWebsite() {
 
           <div className="space-y-8 text-white/80 text-lg leading-loose">
             <p>
-  i remember saying nobody really stays for more than a day.
-  somehow you became the person who proved me wrong.
-</p>
-
+              i know you hate birthdays. they get too loud and you never really like the attention. so i just wanted there to exist one tiny corner of the room clapping the loudest.
+            </p>
 
             <p>
-  somewhere between random late night conversations,
-  disappearing and finding our way back again,
-  gym updates,
-  sleepy talks,
-  and all the chaos in between,
-  you slowly became important to me.
-</p>
+              we met on reddit back in december. i still remember telling you that nobody ever stays more than a day online. people talk for a bit and then disappear like they were never there in the first place.
+            </p>
 
             <p>
-  maybe more than i knew how to admit at the time.
-</p>
-
-
-            <p>
-  i know birthdays arent really your thing,
-  so i didnt want this to feel loud or overdone.
-</p>
-
+              but you stayed.
+            </p>
 
             <p>
-  i just wanted there to exist one tiny corner of the internet
-  that reminds you that your existence has genuinely meant something to someone.
-</p>
+              our whole thing is strange in a way i still dont fully know how to explain. gym updates. sleep deprived conversations at stupid hours. disappearing for a while and then somehow finding our way back again. checking up on each other quietly. hiding heavier things under dumb jokes. you yapping about everything. making me your diary while i still dont remember half the names.
+            </p>
 
+            <p>
+              you told me once,
+              <br />
+              “in every universe it’s you for me even if it’s not for you.”
+            </p>
+
+            <p>
+              i didnt really know what to do with that then.
+              <br />
+              still dont honestly.
+            </p>
+
+            <p>
+              but some people quietly become important.
+              <br />
+              maybe more than i admitted at the time.
+            </p>
+
+            <p>
+              you’re 18 now. i know you think you’re hard to love sometimes. i know you’re trying to figure your head out. and i know being this emotionally aware this young probably gets exhausting in ways you dont really talk about.
+            </p>
+
+            <p>
+              but i noticed your existence more than you probably realize.
+            </p>
+
+            <p>
+              proud of you.
+              <br />
+              my baby.
+            </p>
+
+            <p>
+              happy birthday samiksha.
+            </p>
+
+            <p>
+              dont overthink today too much. go to the gym. get some sleep. disappear for a bit if you want to.
+            </p>
+
+            <p>
+              i’ll still be around.
+            </p>
           </div>
 
           <div className="mt-14 border-l border-white/20 pl-6 italic text-2xl text-white/90 font-serif">
@@ -113,7 +141,7 @@ export default function SamikshaWebsite() {
 
         <div className="relative z-10">
           <h2 className="text-5xl md:text-8xl font-serif font-light leading-tight max-w-5xl">
-            maybe you were always worthy of love
+            maybe you were never as hard to love as you thought
           </h2>
 
           <p className="mt-10 text-white/70 text-lg">
