@@ -70,25 +70,36 @@ export default function SamikshaWebsite() {
 
           <div className="space-y-8 text-white/80 text-lg leading-loose">
             <p>
-              i remember saying nobody stays for more than a day.
-              somehow you became the only person who actually did.
-            </p>
+  i remember saying nobody really stays for more than a day.
+  somehow you became the person who proved me wrong.
+</p>
+
 
             <p>
-              somewhere between random late night conversations,
-              gym updates, disappearing and returning, and all the
-              chaos in between, you slowly became important to me.
-            </p>
+  somewhere between random late night conversations,
+  disappearing and finding our way back again,
+  gym updates,
+  sleepy talks,
+  and all the chaos in between,
+  you slowly became important to me.
+</p>
 
             <p>
-              maybe more than i admitted.
-            </p>
+  maybe more than i knew how to admit at the time.
+</p>
+
 
             <p>
-              i know you hate birthdays so i didnt want this to feel loud.
-              i just wanted there to exist one tiny corner of the internet
-              that celebrates you softly.
-            </p>
+  i know birthdays arent really your thing,
+  so i didnt want this to feel loud or overdone.
+</p>
+
+
+            <p>
+  i just wanted there to exist one tiny corner of the internet
+  that reminds you that your existence has genuinely meant something to someone.
+</p>
+
           </div>
 
           <div className="mt-14 border-l border-white/20 pl-6 italic text-2xl text-white/90 font-serif">
